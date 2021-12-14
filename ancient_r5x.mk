@@ -35,6 +35,9 @@ PRODUCT_MANUFACTURER := Realme
 PRODUCT_NAME := ancient_r5x
 PRODUCT_MODEL := Realme 5 Series
 
+# AncientOS
+ANCIENT_OFFICIAL := true
+
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 TARGET_VENDOR_PRODUCT_NAME := r5x
