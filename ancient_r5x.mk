@@ -45,4 +45,6 @@ TARGET_VENDOR_DEVICE_NAME := r5x
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="r5x" \
-    PRIVATE_BUILD_DESC="trinket-user 10 QKQ1.200209.002 release-keys"
+    PRIVATE_BUILD_DESC="redfin-user 12 SQ1A.211205.008 7888514 release-keys"
+
+BUILD_FINGERPRINT := google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys
